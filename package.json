@@ -1,0 +1,22 @@
+{
+  "name": "cruise-ships",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Cambisin/cruise-ships.git"
+  },
+  "author": "CRE",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cambisin/cruise-ships/issues"
+  },
+  "homepage": "https://github.com/Cambisin/cruise-ships#readme",
+  "devDependencies": {
+    "jest": "^26.4.2"
+  }
+}
